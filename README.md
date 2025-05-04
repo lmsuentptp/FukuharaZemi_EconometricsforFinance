@@ -1,16 +1,10 @@
 Seminar Syllabus: Introductory Econometrics for Finance
 Textbook: Introductory Econometrics for Finance by Chris Brooks
-Course Duration: October 6th
 
-, 2023- January 22nd, 2024
-
-Timing: Every Friday, 15:30 - 18:30
 Course Introduction:
 Econometrics, defined as the application of statistical methods to economic data, holds a cornerstone position
-
 in financial analysis. It paves the way for forecasting, risk management, and informed financial decision-
 making. This course is designed to imbue seminar members with essential, hands-on econometric skills
-
 tailored for the financial sector. Through a systematic exploration of pivotal concepts, modeling techniques,
 and real-world applications, members will develop a profound grasp of financial econometrics and its
 transformative role in modern finance.
@@ -43,7 +37,7 @@ forecast model with appropriate evaluation metrics. You need to show some learni
 parameter stability and the concept in the Chapter6. Do not overlap the dataset each other.
 3. October 27th
 
-: Chapter 7 (TBD9
+: Chapter 7 (TBD)
 
 Topic: VAR model
 Pre-Homework: Use your dataset to make VAR model. You need to consider endogenous/exogeneous,
